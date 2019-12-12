@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Good Kid, m.A.A.d City",
+    "artist": "Kendrick Lamar",
+    "src": "../images/albums/good-kid-maad-city.jpg"
+  },
+  {
+    "title": "IGOR",
+    "artist": "Tyler, the Creator",
+    "src": "../images/albums/igor.jpg"
+  },
+  {
+    "title": "Die Lit",
+    "artist": "Playboi Carti",
+    "src": "../images/albums/die-lit.png"
+  }
+]
