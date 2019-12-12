@@ -21,7 +21,7 @@ const Grid = () => {
     }
   `)
   return (
-    <div className="grid grid-columns-12 grid-gap-4">
+    <div className="grid grid-columns-2 sm:grid-columns-3 md:grid-columns-4 lg:grid-columns-5 xl:grid-columns-6 grid-gap-4 my-4">
       {data.allAlbumsJson.nodes.map(album => (
         <MediaCard
           image={album.src.childImageSharp.fluid}

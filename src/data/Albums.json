@@ -10,8 +10,58 @@
     "src": "../images/albums/igor.jpg"
   },
   {
+    "title": "CLPPNG",
+    "artist": "clipping.",
+    "src": "../images/albums/clppng.jpg"
+  },
+  {
+    "title": "Echo",
+    "artist": "유카리(Yukari)",
+    "src": "../images/albums/echo.jpg"
+  },
+  {
+    "title": "Acid Rap",
+    "artist": "Chance the Rapper",
+    "src": "../images/albums/acid-rap.jpg"
+  },
+  {
+    "title": "Worlds",
+    "artist": "Porter Robinson",
+    "src": "../images/albums/worlds.jpg"
+  },
+  {
+    "title": "Channel Orange",
+    "artist": "Frank Ocean",
+    "src": "../images/albums/channel-orange.jpg"
+  },
+  {
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West",
+    "src": "../images/albums/mbdtf.jpg"
+  },
+  {
+    "title": "House of Balloons",
+    "artist": "The Weeknd",
+    "src": "../images/albums/house-of-balloons.jpg"
+  },
+  {
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "src": "../images/albums/yeezus.jpg"
+  },
+  {
     "title": "Die Lit",
     "artist": "Playboi Carti",
     "src": "../images/albums/die-lit.png"
+  },
+  {
+    "title": "99.9%",
+    "artist": "Kaytranada",
+    "src": "../images/albums/99.9.jpg"
+  },
+  {
+    "title": "The Suburbs",
+    "artist": "Arcade Fire",
+    "src": "../images/albums/the-suburbs.jpg"
   }
 ]

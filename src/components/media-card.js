@@ -3,10 +3,10 @@ import Img from "gatsby-image"
 
 const MediaCard = ({ image, title, subtitle }) => {
   return (
-    <div className="block w-48">
-      <Img fluid={image} className="rounded" />
+    <div className="block w-48 text-xs">
+      <Img fluid={image} className="rounded mb-1" />
       <span className="block">{title}</span>
-      <span className="block">{subtitle}</span>
+      <span className="block text-gray-500">{subtitle}</span>
     </div>
   )
 }
