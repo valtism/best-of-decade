@@ -60,8 +60,123 @@
     "src": "../images/albums/99.9.jpg"
   },
   {
+    "title": "My Name Is My Name",
+    "artist": "Pusha T",
+    "src": "../images/albums/my-name-is-my-name.jpg"
+  },
+  {
+    "title": "Rodeo",
+    "artist": "Travis Scott",
+    "src": "../images/albums/rodeo.jpg"
+  },
+  {
+    "title": "Awaken, My Love!",
+    "artist": "Childish Gambino",
+    "src": "../images/albums/awaken-my-love.jpg"
+  },
+  {
+    "title": "In Colour",
+    "artist": "Jamie XX",
+    "src": "../images/albums/in-colour.jpg"
+  },
+  {
     "title": "The Suburbs",
     "artist": "Arcade Fire",
     "src": "../images/albums/the-suburbs.jpg"
+  },
+  {
+    "title": "Masseduction",
+    "artist": "St Vincent",
+    "src": "../images/albums/masseduction.jpg"
+  },
+  {
+    "title": "Hamilton",
+    "artist": "Lin-Manuel Miranda",
+    "src": "../images/albums/hamilton.jpg"
+  },
+  {
+    "title": "IWASVERBAD",
+    "artist": "IDK",
+    "src": "../images/albums/iwasverybad.jpg"
+  },
+  {
+    "title": "Teens of Denial",
+    "artist": "Car Seat Headrest",
+    "src": "../images/albums/teens-of-denial.jpg"
+  },
+  {
+    "title": "4:44",
+    "artist": "Jay Z",
+    "src": "../images/albums/4.44.jpg"
+  },
+  {
+    "title": "Malibu",
+    "artist": "Anderson .Paak",
+    "src": "../images/albums/malibu.jpg"
+  },
+  {
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "src": "../images/albums/random-access-memories.jpg"
+  },
+  {
+    "title": "Beyoncé",
+    "artist": "Beyoncé",
+    "src": "../images/albums/beyonce.jpg"
+  },
+  {
+    "title": "Carrie & Lowell",
+    "artist": "Sufjan Stevens",
+    "src": "../images/albums/carrie-lowell.jpg"
+  },
+  {
+    "title": "Wide Awake!",
+    "artist": "Parquet Courts",
+    "src": "../images/albums/wide-awake.jpg"
+  },
+  {
+    "title": "Norman Fucking Rockwell!",
+    "artist": "Lana Del Ray",
+    "src": "../images/albums/norman.jpg"
+  },
+  {
+    "title": "Double Negative",
+    "artist": "Low",
+    "src": "../images/albums/double-negative.jpg"
+  },
+  {
+    "title": "SATURATION",
+    "artist": "BROCKHAMPTON",
+    "src": "../images/albums/saturation.jpg"
+  },
+  {
+    "title": "Ctrl",
+    "artist": "SZA",
+    "src": "../images/albums/ctrl.jpg"
+  },
+  {
+    "title": "Piñata",
+    "artist": "Freddie Gibbs & Madlib",
+    "src": "../images/albums/pinata.jpg"
+  },
+  {
+    "title": "LONG.LIVE.A$AP",
+    "artist": "A$AP Rocky",
+    "src": "../images/albums/long-live-asap.jpg"
+  },
+  {
+    "title": "GREY Area",
+    "artist": "Little Simz",
+    "src": "../images/albums/grey-area.jpg"
+  },
+  {
+    "title": "House of Sugar",
+    "artist": "(Sandy) Alex G",
+    "src": "../images/albums/house-of-sugar.jpg"
+  },
+  {
+    "title": "Monster",
+    "artist": "Future",
+    "src": "../images/albums/monster.jpg"
   }
 ]
