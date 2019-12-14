@@ -85,11 +85,6 @@
     "src": "../images/albums/the-suburbs.jpg"
   },
   {
-    "title": "Masseduction",
-    "artist": "St Vincent",
-    "src": "../images/albums/masseduction.jpg"
-  },
-  {
     "title": "Hamilton",
     "artist": "Lin-Manuel Miranda",
     "src": "../images/albums/hamilton.jpg"
@@ -150,6 +145,11 @@
     "src": "../images/albums/saturation.jpg"
   },
   {
+    "title": "Blank Banshee 1",
+    "artist": "Blank Banshee",
+    "src": "../images/albums/blank-banshee-1.jpg"
+  },
+  {
     "title": "Ctrl",
     "artist": "SZA",
     "src": "../images/albums/ctrl.jpg"
@@ -165,18 +165,148 @@
     "src": "../images/albums/long-live-asap.jpg"
   },
   {
-    "title": "GREY Area",
-    "artist": "Little Simz",
-    "src": "../images/albums/grey-area.jpg"
-  },
-  {
     "title": "House of Sugar",
     "artist": "(Sandy) Alex G",
     "src": "../images/albums/house-of-sugar.jpg"
   },
   {
+    "title": "Cosmogramma",
+    "artist": "Flying Lotus",
+    "src": "../images/albums/cosmogramma.jpg"
+  },
+  {
+    "title": "with Funwari-chan!",
+    "artist": "Funwari-chan",
+    "src": "../images/albums/with-funwari-chan.jpg"
+  },
+  {
+    "title": "Cerulean",
+    "artist": "Baths",
+    "src": "../images/albums/cerulean.jpg"
+  },
+  {
+    "title": "The Money Store",
+    "artist": "Death Grips",
+    "src": "../images/albums/the-money-store.jpg"
+  },
+  {
+    "title": "SBTRKT",
+    "artist": "SBTRKT",
+    "src": "../images/albums/sbtrkt.jpg"
+  },
+  {
+    "title": "III",
+    "artist": "BADBADNOTGOOD",
+    "src": "../images/albums/iii.jpg"
+  },
+  {
+    "title": "The Color Spectrum",
+    "artist": "The Dear Hunter",
+    "src": "../images/albums/the-color-spectrum.jpg"
+  },
+  {
+    "title": "Soft Sounds From Another Planet",
+    "artist": "Japanese Breakfast",
+    "src": "../images/albums/soft-sounds.jpg"
+  },
+  {
+    "title": "Go Farther in Lightness",
+    "artist": "Gang of Youths",
+    "src": "../images/albums/go-farther-in-lightness.jpg"
+  },
+  {
+    "title": "Singularity",
+    "artist": "Jon Hopkins",
+    "src": "../images/albums/singularity.jpg"
+  },
+  {
+    "title": "KIDS SEE GHOSTS",
+    "artist": "KIDS SEE GHOSTS",
+    "src": "../images/albums/kids-see-ghosts.jpg"
+  },
+  {
+    "title": "Skin",
+    "artist": "Flume",
+    "src": "../images/albums/skin.jpg"
+  },
+  {
+    "title": "All We Need",
+    "artist": "Raury",
+    "src": "../images/albums/all-we-need.jpg"
+  },
+  {
+    "title": "This Old Dog",
+    "artist": "Mac Demarco",
+    "src": "../images/albums/this-old-dog.jpg"
+  },
+  {
+    "title": "Masseduction",
+    "artist": "St Vincent",
+    "src": "../images/albums/masseduction.jpg"
+  },
+  {
+    "title": "Run The Jewels",
+    "artist": "Run The Jewels",
+    "src": "../images/albums/run-the-jewels.jpg"
+  },
+  {
+    "title": "Heartland",
+    "artist": "Owen Pallett",
+    "src": "../images/albums/heartland.jpg"
+  },
+  {
+    "title": "The Witch",
+    "artist": "Pumarosa",
+    "src": "../images/albums/the-witch.jpg"
+  },
+  {
+    "title": "Process",
+    "artist": "Sampha",
+    "src": "../images/albums/process.jpg"
+  },
+  {
+    "title": "Undun",
+    "artist": "The Roots",
+    "src": "../images/albums/undun.jpg"
+  },
+  {
+    "title": "GREY Area",
+    "artist": "Little Simz",
+    "src": "../images/albums/grey-area.jpg"
+  },
+  {
+    "title": "?",
+    "artist": "XXXTENTACION",
+    "src": "../images/albums/?.jpg"
+  },
+  {
+    "title": "Currents",
+    "artist": "Tame Impala",
+    "src": "../images/albums/currents.jpg"
+  },
+  {
+    "title": "The Wild Hunt",
+    "artist": "The Tallest Man On Earth",
+    "src": "../images/albums/the-wild-hunt.jpg"
+  },
+  {
+    "title": "Hurry Up, We're Dreaming",
+    "artist": "M83",
+    "src": "../images/albums/hurry-up-were-dreaming.jpg"
+  },
+  {
+    "title": "Slime Season 3",
+    "artist": "Young Thug",
+    "src": "../images/albums/slime-season-3.jpg"
+  },
+  {
     "title": "Monster",
     "artist": "Future",
     "src": "../images/albums/monster.jpg"
+  },
+  {
+    "title": "Rock Buddha",
+    "artist": "Tatsuya Kokufu",
+    "src": "../images/albums/rock-buddha.jpg"
   }
 ]
