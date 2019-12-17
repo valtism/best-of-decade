@@ -48,7 +48,7 @@ const Albums = () => {
   const [sorter, setSorter] = useState(sorters[0])
   const albumSortButtons = sorters.map(sort => (
     <Button
-      color="purple"
+      color="indigo"
       onClick={() => setSorter(sort)}
       active={sorter.name === sort.name}
       group
@@ -60,7 +60,11 @@ const Albums = () => {
 
   return (
     <>
-      <div className="inline-flex">{albumSortButtons}</div>
+      <div className="flex">
+        <h2 className="sm:text-l md:text-xl font-bold">Albums</h2>
+        <span className="flex-1"></span>
+        <div className="">{albumSortButtons}</div>
+      </div>
       <Grid nodes={sorter.sort(data.allAlbumsJson.nodes)} />
     </>
   )
