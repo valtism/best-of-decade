@@ -2,311 +2,373 @@
   {
     "title": "Good Kid, m.A.A.d City",
     "artist": "Kendrick Lamar",
+    "date": "2012-10-22",
     "src": "../images/albums/good-kid-maad-city.jpg"
   },
   {
     "title": "IGOR",
     "artist": "Tyler, the Creator",
+    "date": "2019-05-17",
     "src": "../images/albums/igor.jpg"
   },
   {
     "title": "CLPPNG",
     "artist": "clipping.",
+    "date": "2014-06-10",
     "src": "../images/albums/clppng.jpg"
   },
   {
     "title": "Echo",
     "artist": "유카리(Yukari)",
+    "date": "2012-12-21",
     "src": "../images/albums/echo.jpg"
   },
   {
     "title": "Acid Rap",
     "artist": "Chance the Rapper",
+    "date": "2013-04-30",
     "src": "../images/albums/acid-rap.jpg"
   },
   {
     "title": "Worlds",
     "artist": "Porter Robinson",
+    "date": "2014-08-12",
     "src": "../images/albums/worlds.jpg"
   },
   {
     "title": "Channel Orange",
     "artist": "Frank Ocean",
+    "date": "2012-07-10",
     "src": "../images/albums/channel-orange.jpg"
   },
   {
     "title": "My Beautiful Dark Twisted Fantasy",
     "artist": "Kanye West",
+    "date": "2010-11-22",
     "src": "../images/albums/mbdtf.jpg"
   },
   {
     "title": "House of Balloons",
     "artist": "The Weeknd",
+    "date": "2011-03-21",
     "src": "../images/albums/house-of-balloons.jpg"
-  },
-  {
-    "title": "Yeezus",
-    "artist": "Kanye West",
-    "src": "../images/albums/yeezus.jpg"
   },
   {
     "title": "Die Lit",
     "artist": "Playboi Carti",
+    "date": "2018-05-11",
     "src": "../images/albums/die-lit.png"
   },
   {
     "title": "99.9%",
     "artist": "Kaytranada",
+    "date": "2016-05-06",
     "src": "../images/albums/99.9.jpg"
   },
   {
     "title": "My Name Is My Name",
     "artist": "Pusha T",
+    "date": "2013-10-08",
     "src": "../images/albums/my-name-is-my-name.jpg"
   },
   {
     "title": "Rodeo",
     "artist": "Travis Scott",
+    "date": "2015-09-04",
     "src": "../images/albums/rodeo.jpg"
   },
   {
     "title": "Awaken, My Love!",
     "artist": "Childish Gambino",
+    "date": "2016-12-02",
     "src": "../images/albums/awaken-my-love.jpg"
   },
   {
     "title": "In Colour",
     "artist": "Jamie XX",
+    "date": "2015-05-29",
     "src": "../images/albums/in-colour.jpg"
   },
   {
     "title": "The Suburbs",
     "artist": "Arcade Fire",
+    "date": "2010-08-02",
     "src": "../images/albums/the-suburbs.jpg"
   },
   {
     "title": "Hamilton",
     "artist": "Lin-Manuel Miranda",
+    "date": "2015-10-16",
     "src": "../images/albums/hamilton.jpg"
   },
   {
     "title": "IWASVERBAD",
     "artist": "IDK",
+    "date": "2017-10-13",
     "src": "../images/albums/iwasverybad.jpg"
   },
   {
     "title": "Teens of Denial",
     "artist": "Car Seat Headrest",
+    "date": "2016-05-20",
     "src": "../images/albums/teens-of-denial.jpg"
   },
   {
     "title": "4:44",
     "artist": "Jay Z",
+    "date": "2017-06-30",
     "src": "../images/albums/4.44.jpg"
   },
   {
     "title": "Malibu",
     "artist": "Anderson .Paak",
+    "date": "2016-01-15",
     "src": "../images/albums/malibu.jpg"
   },
   {
     "title": "Random Access Memories",
     "artist": "Daft Punk",
+    "date": "2013-05-17",
     "src": "../images/albums/random-access-memories.jpg"
   },
   {
     "title": "Beyoncé",
     "artist": "Beyoncé",
+    "date": "2013-12-13",
     "src": "../images/albums/beyonce.jpg"
   },
   {
     "title": "Carrie & Lowell",
     "artist": "Sufjan Stevens",
+    "date": "2015-03-31",
     "src": "../images/albums/carrie-lowell.jpg"
   },
   {
     "title": "Wide Awake!",
     "artist": "Parquet Courts",
+    "date": "2018-05-18",
     "src": "../images/albums/wide-awake.jpg"
   },
   {
     "title": "Norman Fucking Rockwell!",
     "artist": "Lana Del Ray",
+    "date": "2019-08-30",
     "src": "../images/albums/norman.jpg"
   },
   {
     "title": "Double Negative",
     "artist": "Low",
+    "date": "2018-09-14",
     "src": "../images/albums/double-negative.jpg"
   },
   {
     "title": "SATURATION",
     "artist": "BROCKHAMPTON",
+    "date": "2017-06-09",
     "src": "../images/albums/saturation.jpg"
   },
   {
     "title": "Blank Banshee 1",
     "artist": "Blank Banshee",
+    "date": "2013-10-20",
     "src": "../images/albums/blank-banshee-1.jpg"
   },
   {
     "title": "Ctrl",
     "artist": "SZA",
+    "date": "2017-06-09",
     "src": "../images/albums/ctrl.jpg"
   },
   {
     "title": "Piñata",
     "artist": "Freddie Gibbs & Madlib",
+    "date": "2014-03-18",
     "src": "../images/albums/pinata.jpg"
   },
   {
     "title": "LONG.LIVE.A$AP",
     "artist": "A$AP Rocky",
+    "date": "2013-01-15",
     "src": "../images/albums/long-live-asap.jpg"
   },
   {
     "title": "House of Sugar",
     "artist": "(Sandy) Alex G",
+    "date": "2019-09-13",
     "src": "../images/albums/house-of-sugar.jpg"
   },
   {
     "title": "Cosmogramma",
     "artist": "Flying Lotus",
+    "date": "2010-05-03",
     "src": "../images/albums/cosmogramma.jpg"
   },
   {
     "title": "with Funwari-chan!",
     "artist": "Funwari-chan",
+    "date": "2012-07-08",
     "src": "../images/albums/with-funwari-chan.jpg"
   },
   {
     "title": "Cerulean",
     "artist": "Baths",
+    "date": "2010-06-22",
     "src": "../images/albums/cerulean.jpg"
   },
   {
     "title": "The Money Store",
     "artist": "Death Grips",
+    "date": "2012-04-24",
     "src": "../images/albums/the-money-store.jpg"
   },
   {
     "title": "SBTRKT",
     "artist": "SBTRKT",
+    "date": "2011-06-27",
     "src": "../images/albums/sbtrkt.jpg"
   },
   {
     "title": "III",
     "artist": "BADBADNOTGOOD",
+    "date": "2014-05-06",
     "src": "../images/albums/iii.jpg"
   },
   {
     "title": "The Color Spectrum",
     "artist": "The Dear Hunter",
+    "date": "2011-06-14",
     "src": "../images/albums/the-color-spectrum.jpg"
   },
   {
     "title": "Soft Sounds From Another Planet",
     "artist": "Japanese Breakfast",
+    "date": "2017-07-14",
     "src": "../images/albums/soft-sounds.jpg"
   },
   {
     "title": "Go Farther in Lightness",
     "artist": "Gang of Youths",
+    "date": "2017-08-18",
     "src": "../images/albums/go-farther-in-lightness.jpg"
   },
   {
     "title": "Singularity",
     "artist": "Jon Hopkins",
+    "date": "2018-05-04",
     "src": "../images/albums/singularity.jpg"
   },
   {
     "title": "KIDS SEE GHOSTS",
     "artist": "KIDS SEE GHOSTS",
+    "date": "2018-06-08",
     "src": "../images/albums/kids-see-ghosts.jpg"
   },
   {
     "title": "Skin",
     "artist": "Flume",
+    "date": "2016-05-27",
     "src": "../images/albums/skin.jpg"
   },
   {
     "title": "All We Need",
     "artist": "Raury",
+    "date": "2015-10-16",
     "src": "../images/albums/all-we-need.jpg"
   },
   {
     "title": "This Old Dog",
     "artist": "Mac Demarco",
+    "date": "2017-05-05",
     "src": "../images/albums/this-old-dog.jpg"
   },
   {
     "title": "Masseduction",
     "artist": "St Vincent",
+    "date": "2017-10-13",
     "src": "../images/albums/masseduction.jpg"
   },
   {
     "title": "Run The Jewels",
     "artist": "Run The Jewels",
+    "date": "2013-06-26",
     "src": "../images/albums/run-the-jewels.jpg"
   },
   {
     "title": "Heartland",
     "artist": "Owen Pallett",
+    "date": "2010-01-12",
     "src": "../images/albums/heartland.jpg"
   },
   {
-    "title": "The Witch",
-    "artist": "Pumarosa",
-    "src": "../images/albums/the-witch.jpg"
+    "title": "Heisei",
+    "artist": "Orisaka Yuta",
+    "date": "2018-10-03",
+    "src": "../images/albums/heisei.jpg"
   },
   {
     "title": "Process",
     "artist": "Sampha",
+    "date": "2017-02-03",
     "src": "../images/albums/process.jpg"
   },
   {
     "title": "Undun",
     "artist": "The Roots",
+    "date": "2011-12-02",
     "src": "../images/albums/undun.jpg"
   },
   {
     "title": "GREY Area",
     "artist": "Little Simz",
+    "date": "2019-03-01",
     "src": "../images/albums/grey-area.jpg"
   },
   {
     "title": "?",
     "artist": "XXXTENTACION",
+    "date": "2018-03-16",
     "src": "../images/albums/?.jpg"
   },
   {
     "title": "Currents",
     "artist": "Tame Impala",
+    "date": "2015-07-17",
     "src": "../images/albums/currents.jpg"
   },
   {
     "title": "The Wild Hunt",
     "artist": "The Tallest Man On Earth",
+    "date": "2010-04-13",
     "src": "../images/albums/the-wild-hunt.jpg"
   },
   {
     "title": "Hurry Up, We're Dreaming",
     "artist": "M83",
+    "date": "2011-10-18",
     "src": "../images/albums/hurry-up-were-dreaming.jpg"
   },
   {
     "title": "Slime Season 3",
     "artist": "Young Thug",
+    "date": "2016-03-25",
     "src": "../images/albums/slime-season-3.jpg"
+  },
+  {
+    "title": "The Witch",
+    "artist": "Pumarosa",
+    "date": "2017-05-19",
+    "src": "../images/albums/the-witch.jpg"
   },
   {
     "title": "Monster",
     "artist": "Future",
+    "date": "2014-10-28",
     "src": "../images/albums/monster.jpg"
   },
   {
     "title": "Rock Buddha",
     "artist": "Tatsuya Kokufu",
+    "date": "2018-03-21",
     "src": "../images/albums/rock-buddha.jpg"
   }
 ]

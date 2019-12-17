@@ -13,9 +13,10 @@ const Albums = () => {
         nodes {
           title
           artist
+          date
           src {
             childImageSharp {
-              fluid(maxWidth: 1000) {
+              fluid(maxWidth: 1500) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -38,7 +39,10 @@ const Albums = () => {
       name: "Album",
       sort: albums => _.sortBy(albums, "title"),
     },
-    // TODO: Year
+    {
+      name: "Year",
+      sort: albums => _.sortBy(albums, "date"),
+    },
   ]
 
   const [sorter, setSorter] = useState(sorters[0])
