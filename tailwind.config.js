@@ -2,7 +2,9 @@ module.exports = {
   theme: {
     extend: {},
   },
-  variants: {},
+  variants: {
+    borderRadius: ["responsive", "first", "last"],
+  },
   plugins: [
     require("./plugins/css-grid")({
       grids: [2, 3, 5, 6, 8, 10, 12],
