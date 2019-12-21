@@ -16,7 +16,7 @@ export const Albums = () => {
           date
           src {
             childImageSharp {
-              fluid(maxWidth: 192) {
+              fluid(maxWidth: 300) {
                 ...GatsbyImageSharpFluid
               }
             }
