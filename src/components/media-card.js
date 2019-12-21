@@ -1,7 +1,7 @@
 import React from "react"
 import Img from "gatsby-image"
 
-const MediaCard = ({ image, title, subtitle }) => {
+export const MediaCard = ({ image, title, subtitle }) => {
   return (
     <div className="block w-48 text-xs">
       <Img fluid={image} className="rounded mb-1" />
@@ -10,5 +10,3 @@ const MediaCard = ({ image, title, subtitle }) => {
     </div>
   )
 }
-
-export default MediaCard

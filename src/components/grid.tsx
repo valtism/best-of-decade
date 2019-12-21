@@ -1,7 +1,11 @@
-import React from "react"
-import MediaCard from "./media-card"
+import React, { FC } from "react"
+import { MediaCard } from "./media-card"
 
-const Grid = ({ nodes }) => (
+interface GridProps {
+  nodes: any
+}
+
+export const Grid: FC<GridProps> = ({ nodes }) => (
   <div className="grid grid-columns-2 sm:grid-columns-3 md:grid-columns-4 lg:grid-columns-5 xl:grid-columns-6 grid-gap-4 my-4">
     {nodes.map(album => (
       <MediaCard
@@ -13,5 +17,3 @@ const Grid = ({ nodes }) => (
     ))}
   </div>
 )
-
-export default Grid

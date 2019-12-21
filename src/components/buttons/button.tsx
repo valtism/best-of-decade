@@ -8,7 +8,7 @@ interface ButtonProps {
   group?: boolean
 }
 
-const Button: FC<ButtonProps> = ({
+export const Button: FC<ButtonProps> = ({
   color,
   onClick = () => {},
   active = false,
@@ -29,5 +29,3 @@ const Button: FC<ButtonProps> = ({
     </button>
   )
 }
-
-export default Button

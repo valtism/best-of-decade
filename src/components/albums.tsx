@@ -1,12 +1,12 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Button from "./buttons/button"
-import Grid from "./grid"
+import { Button } from "./buttons/button"
+import { Grid } from "./grid"
 
 const _ = require("lodash")
 
-const Albums = () => {
+export const Albums = () => {
   const data = useStaticQuery(graphql`
     query {
       allAlbumsJson {
@@ -69,5 +69,3 @@ const Albums = () => {
     </>
   )
 }
-
-export default Albums
