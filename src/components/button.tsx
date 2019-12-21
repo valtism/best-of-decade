@@ -41,8 +41,8 @@ export const Button: FC<ButtonProps> = ({
         : "rounded"
     ),
     [ButtonType.Underline]: classNames(
-      "text-xs font-bold my-1 mx-3 leading-relaxed", // We use margin instad of padding so the bottom border only underlines the text
-      active ? `border-b-2 border-${color}-500` : ``
+      "text-xs font-bold mb-1 mt-2 mx-3 leading-normal", // We use margin instad of padding so the bottom border only underlines the text
+      active ? `border-b-2 border-${color}-500` : `border-b-2 border-transparent`
     ),
   }
 

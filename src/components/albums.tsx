@@ -64,7 +64,12 @@ export const Albums = () => {
       <div className="flex">
         <h2 className="sm:text-l md:text-xl font-bold">Albums</h2>
         <span className="flex-1"></span>
-        <div className="">{albumSortButtons}</div>
+        <div className="flex flex-col">
+          <span className="text-center text-xs text-gray-500 my-auto px-2 font-semibold">
+            Sort By
+          </span>
+          <div>{albumSortButtons}</div>
+        </div>
       </div>
       <Grid nodes={sorter.sort(data.allAlbumsJson.nodes)} />
     </>
