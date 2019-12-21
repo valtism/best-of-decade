@@ -43,7 +43,7 @@ module.exports = {
         // develop: true, // Enable while using `gatsby develop`
         tailwind: true, // Enable tailwindcss support
         // whitelist: ['whitelist'], // Don't remove this selector
-        whitelistPatterns: [/bg-\w+-500/, /bg-\w+-700/, /bg-\w+-800/],
+        whitelistPatterns: [/bg-\w+-\d+/, /border-\w+-\d+/, /text-\w+-\d+/],
         // ignore: ['/ignored.css', 'prismjs/', 'docsearch.js/'], // Ignore files/folders
         // purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
       },

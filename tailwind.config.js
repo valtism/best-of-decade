@@ -4,5 +4,6 @@ module.exports = {
   },
   variants: {
     borderRadius: ["responsive", "first", "last"],
+    borderWidth: ["responsive", "first", "last"],
   },
 }

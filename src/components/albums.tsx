@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Button } from "./buttons/button"
+import { Button, ButtonType } from "./button"
 import { Grid } from "./grid"
 
 const _ = require("lodash")
@@ -49,6 +49,7 @@ export const Albums = () => {
   const albumSortButtons = sorters.map(sort => (
     <Button
       color="indigo"
+      type={ButtonType.Underline}
       onClick={() => setSorter(sort)}
       active={sorter.name === sort.name}
       group
