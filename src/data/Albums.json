@@ -234,6 +234,12 @@
     "src": "../images/albums/iii.jpg"
   },
   {
+    "title": "Teen Dream",
+    "artist": "Beach House",
+    "date": "2010-01-26",
+    "src": "../images/albums/teen-dream.jpg"
+  },
+  {
     "title": "The Color Spectrum",
     "artist": "The Dear Hunter",
     "date": "2011-06-14",
