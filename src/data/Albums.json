@@ -312,6 +312,12 @@
     "src": "../images/albums/heisei.jpg"
   },
   {
+    "title": "Broken Bells",
+    "artist": "Broken Bells",
+    "date": "2010-03-09",
+    "src": "../images/albums/broken-bells.jpg"
+  },
+  {
     "title": "Process",
     "artist": "Sampha",
     "date": "2017-02-03",
@@ -340,12 +346,6 @@
     "artist": "Tame Impala",
     "date": "2015-07-17",
     "src": "../images/albums/currents.jpg"
-  },
-  {
-    "title": "The Wild Hunt",
-    "artist": "The Tallest Man On Earth",
-    "date": "2010-04-13",
-    "src": "../images/albums/the-wild-hunt.jpg"
   },
   {
     "title": "Hurry Up, We're Dreaming",
