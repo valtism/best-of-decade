@@ -1,7 +1,6 @@
-import PropTypes from "prop-types"
 import React from "react"
 
-export const Footer = ({ siteTitle }) => (
+export const Footer = () => (
   <footer className=" text-center bg-gray-900 py-5 text-sm text-gray-600 center">
     <div className="hover:text-gray-200">By Dan Wood (@valtism)</div>
     <div>
@@ -14,11 +13,3 @@ export const Footer = ({ siteTitle }) => (
     </div>
   </footer>
 )
-
-Footer.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Footer.defaultProps = {
-  siteTitle: ``,
-}
